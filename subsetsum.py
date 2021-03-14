@@ -1,4 +1,4 @@
-# Here we need to find the number of subsets with given sum
+# Here we need to find if the given list contains a subset having of given sum
 
 def subsetproblem(arr,sumx,n):
     for i in range(n+1):
