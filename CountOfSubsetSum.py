@@ -1,4 +1,4 @@
-# The complete function is same as subsetsum problem only difference being that at line 15 instead of "or" we write "+" because we want all the possible 
+# The complete function is same as subsetsum problem only difference being that at line 15 instead of "or" we write "+" because we want the count all possible subsets of given sum
 
 def subsetproblem(arr,W,n):
     for i in range(n+1):
